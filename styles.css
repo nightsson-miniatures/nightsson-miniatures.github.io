@@ -28,6 +28,7 @@ a{ color: inherit; }
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
   z-index: 10;
+  justify-content: space-between;
 }
 .topnav a{
   text-decoration:none;
@@ -210,4 +211,16 @@ h2{
 
 #about {
   background: linear-gradient(180deg, #0a1220 0%, #0d182c 100%);
+}
+
+.nav-links {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
+.logo img {
+  height: 42px;
+  width: auto;
+  display: block;
 }
