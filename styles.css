@@ -190,7 +190,7 @@ h2{
 /* Section-specific dark blue nuances */
 
 #home {
-  background: linear-gradient(180deg, #070d1a 0%, #0a1324 100%);
+    background: linear-gradient(180deg, #060c18 0%, #0c162a 100%);
 }
 
 #gallery {
