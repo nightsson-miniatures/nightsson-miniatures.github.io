@@ -224,3 +224,9 @@ h2{
   width: auto;
   display: block;
 }
+
+.hero-logo {
+  width: min(520px, 85%);
+  margin-bottom: 30px;
+  display: block;
+}
