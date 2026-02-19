@@ -229,4 +229,5 @@ h2{
   width: min(520px, 85%);
   margin-bottom: 30px;
   display: block;
+  filter: drop-shadow(0 0 18px rgba(255, 190, 60, 0.08));
 }
